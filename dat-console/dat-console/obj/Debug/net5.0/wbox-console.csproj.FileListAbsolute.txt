@@ -1,0 +1,35 @@
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.exe
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.deps.json
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.runtimeconfig.json
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.runtimeconfig.dev.json
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.dll
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\ref\wbox-console.dll
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.pdb
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.csprojAssemblyReference.cache
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.AssemblyInfo.cs
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.csproj.CopyComplete
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.dll
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\ref\wbox-console.dll
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.pdb
+C:\Users\david\Desktop\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.genruntimeconfig.cache
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.exe
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.deps.json
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.runtimeconfig.json
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.runtimeconfig.dev.json
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.dll
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\ref\wbox-console.dll
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\wbox-console.pdb
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.csproj.AssemblyReference.cache
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.AssemblyInfoInputs.cache
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.AssemblyInfo.cs
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.csproj.CoreCompileInputs.cache
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.dll
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\ref\wbox-console.dll
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.pdb
+C:\Users\David Matos\Desktop\Desktop2022\telltale-wbox\app-console\wbox-console\wbox-console\obj\Debug\net5.0\wbox-console.genruntimeconfig.cache
