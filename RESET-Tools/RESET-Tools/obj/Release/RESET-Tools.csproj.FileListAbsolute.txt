@@ -1,0 +1,6 @@
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\bin\Release\RESET-Tools.exe.config
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\bin\Release\RESET-Tools.exe
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\bin\Release\RESET-Tools.pdb
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\obj\Release\RESET-Tools.csproj.CoreCompileInputs.cache
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\obj\Release\RESET-Tools.exe
+D:\Applications\app-custom-RESET-dat\RESET-dat-extractor\RESET-Tools\RESET-Tools\obj\Release\RESET-Tools.pdb
