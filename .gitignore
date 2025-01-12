@@ -1,6 +1,13 @@
 
-/RESET-Tools/RESET-Tools/obj
-/RESET-Tools/RESET-Tools/obj
-/RESET-Tools/RESET-Tools/obj/Debug
+/RESET-Tools/.vs
 /RESET-Tools/.vs/RESET-Tools/FileContentIndex
 /RESET-Tools/.vs/RESET-Tools/v16
+/RESET-Tools/.vs/RESET-Tools/v17
+
+/RESET-Tools/RESET-Tools/bin
+/RESET-Tools/RESET-Tools/bin/Debug
+/RESET-Tools/RESET-Tools/bin/Release
+/RESET-Tools/RESET-Tools/.vs
+/RESET-Tools/RESET-Tools/obj
+/RESET-Tools/RESET-Tools/obj/Debug
+/RESET-Tools/RESET-Tools/obj/Release

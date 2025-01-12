@@ -96,7 +96,7 @@ namespace RESET_Tools
             ConsoleWriter.WriteSuccessLine("Application End!");
 
 #if (DEBUG_EXTRACTION_MODE || DEBUG_REPACK_MODE)
-            Console.ReadLine();
+            //Console.ReadLine();
 #endif
         }
 
@@ -181,7 +181,7 @@ namespace RESET_Tools
 
                 string[] filesInFolder = Directory.GetFiles(currentFolderPath, "*.*", SearchOption.AllDirectories);
 
-                //NOTE: In reset archive, files are sorted alphabetically, as for file sizes... not sure
+                //NOTE: In reset archive, files are sorted alphabetically
                 Array.Sort(filesInFolder);
 
                 newDataArchive.DataArchiveFileEntries = new ResetDataArchiveFileEntry[filesInFolder.Length];
