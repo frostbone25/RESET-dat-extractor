@@ -62,8 +62,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataArchives\DataArchive.cs" />
-    <Compile Include="DataArchives\DataArchiveFileEntry.cs" />
+    <Compile Include="ResetDataArchives\ResetDataArchive.cs" />
+    <Compile Include="ResetDataArchives\ResetDataArchiveFileEntry.cs" />
     <Compile Include="Experimental\Bin\BinFile.cs" />
     <Compile Include="Experimental\Bin\BinFileEntry.cs" />
     <Compile Include="Experimental\Bnk\BKHD.cs" />
@@ -73,8 +73,12 @@
     <Compile Include="Experimental\Identify\CachedBlobFolder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResetAsset\ResetAsset.cs" />
+    <Compile Include="ResetAssetDeserializer.cs" />
+    <Compile Include="ResetAsset\ResetAssetNode.cs" />
     <Compile Include="Utilities\ByteFunctions.cs" />
     <Compile Include="Utilities\ConsoleFunctions.cs" />
+    <Compile Include="Utilities\ConsoleWriter.cs" />
     <Compile Include="Utilities\IOManagement.cs" />
   </ItemGroup>
   <ItemGroup>

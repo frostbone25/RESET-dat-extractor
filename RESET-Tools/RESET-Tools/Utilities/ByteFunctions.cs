@@ -191,7 +191,6 @@ namespace RESET_Tools.Utilities
         {
             string value = "";
             int stringLength = reader.ReadInt32();
-            //byte[] stringData = new byte[0];
 
             for (int i = 0; i < stringLength; i++)
             {
@@ -229,38 +228,16 @@ namespace RESET_Tools.Utilities
         {
             writer.Write(value.Length);
 
-            byte[] encodedString = Encoding.UTF32.GetBytes(value);
-            writer.Write(encodedString);
+            //byte[] encodedString = Encoding.UTF32.GetBytes(value);
+            //writer.Write(encodedString);
+
+            for(int i = 0; i < value.Length; i++)
+            {
+                writer.Write(value[i]);
+                writer.Write(byte.MinValue);
+            }
 
             return value;
-        }
-
-        /// <summary>
-        /// Checks if the pointer position is at the DCArray capacity, if's not then it moves the pointer past where it should be after reading the DCArray.
-        /// </summary>
-        /// <param name="pointerPositionBeforeCapacity"></param>
-        /// <param name="arrayCapacity"></param>
-        /// <param name="bytePointerPosition"></param>
-        public static void DCArrayCheckAdjustment(uint pointerPositionBeforeCapacity, uint arrayCapacity, ref uint bytePointerPosition)
-        {
-            uint estimatedOffPoint = pointerPositionBeforeCapacity + ((uint)arrayCapacity);
-            ConsoleFunctions.SetConsoleColor(ConsoleColor.Black, ConsoleColor.Yellow);
-            Console.WriteLine("(DCArray Check) Estimated to be at = {0}", estimatedOffPoint);
-
-            if (bytePointerPosition != estimatedOffPoint)
-            {
-                ConsoleFunctions.SetConsoleColor(ConsoleColor.Black, ConsoleColor.Red);
-                Console.WriteLine("(DCArray Check) Left off at = {0}", bytePointerPosition);
-                Console.WriteLine("(DCArray Check) Skipping by using the estimated position...", bytePointerPosition);
-                bytePointerPosition = estimatedOffPoint;
-            }
-            else
-            {
-                ConsoleFunctions.SetConsoleColor(ConsoleColor.Black, ConsoleColor.Green);
-                Console.WriteLine("(DCArray Check) Left off at = {0}", bytePointerPosition);
-            }
-
-            ConsoleFunctions.SetConsoleColor(ConsoleColor.Black, ConsoleColor.White);
         }
 
         /// <summary>

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\resetdataarchives\\resetdataarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\resetdataarchives\\resetdataarchive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\resetdataarchives\\resetdataarchivefileentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\resetdataarchives\\resetdataarchivefileentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\utilities\\consolefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\utilities\\consolefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\utilities\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\utilities\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\utilities\\bytefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\utilities\\bytefunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\resetassetdeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\resetassetdeserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\resetasset\\resetasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\resetasset\\resetasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|d:\\applications\\app-custom-reset-dat\\reset-dat-extractor\\reset-tools\\reset-tools\\resetasset\\resetassetnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C2AAA-F7A8-4EBC-A352-E167EAA10DB6}|RESET-Tools\\RESET-Tools.csproj|solutionrelative:reset-tools\\resetasset\\resetassetnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetAsset.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAsset\\ResetAsset.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\ResetAsset\\ResetAsset.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAsset\\ResetAsset.cs",
+              "RelativeToolTip": "RESET-Tools\\ResetAsset\\ResetAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:19:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\Utilities\\ConsoleWriter.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ConsoleWriter.cs",
+              "RelativeToolTip": "RESET-Tools\\Utilities\\ConsoleWriter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:02:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleFunctions.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ConsoleFunctions.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\Utilities\\ConsoleFunctions.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ConsoleFunctions.cs",
+              "RelativeToolTip": "RESET-Tools\\Utilities\\ConsoleFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:01:59.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetDataArchiveFileEntry.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetDataArchives\\ResetDataArchiveFileEntry.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\ResetDataArchives\\ResetDataArchiveFileEntry.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetDataArchives\\ResetDataArchiveFileEntry.cs",
+              "RelativeToolTip": "RESET-Tools\\ResetDataArchives\\ResetDataArchiveFileEntry.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wDYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:58:09.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetDataArchive.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetDataArchives\\ResetDataArchive.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\ResetDataArchives\\ResetDataArchive.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetDataArchives\\ResetDataArchive.cs",
+              "RelativeToolTip": "RESET-Tools\\ResetDataArchives\\ResetDataArchive.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAjwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:57:18.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ByteFunctions.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ByteFunctions.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\Utilities\\ByteFunctions.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Utilities\\ByteFunctions.cs",
+              "RelativeToolTip": "RESET-Tools\\Utilities\\ByteFunctions.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAWwMkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:57:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Program.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\Program.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\Program.cs",
+              "RelativeToolTip": "RESET-Tools\\Program.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAiwNsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-10-13T21:00:42.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetAssetDeserializer.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAssetDeserializer.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\ResetAssetDeserializer.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAssetDeserializer.cs",
+              "RelativeToolTip": "RESET-Tools\\ResetAssetDeserializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:20:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetAssetNode.cs",
+              "DocumentMoniker": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAsset\\ResetAssetNode.cs",
+              "RelativeDocumentMoniker": "RESET-Tools\\ResetAsset\\ResetAssetNode.cs",
+              "ToolTip": "D:\\Applications\\app-custom-RESET-dat\\RESET-dat-extractor\\RESET-Tools\\RESET-Tools\\ResetAsset\\ResetAssetNode.cs",
+              "RelativeToolTip": "RESET-Tools\\ResetAsset\\ResetAssetNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T23:26:53.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
